@@ -54,7 +54,7 @@ See <i>/help</i> for commands and more details.</b>
 
     ABOUT_MSG = """⭕️<b>My Name : filter_hpmbot</b>
 
-⭕️<b>Creater :</b> @GreyMatter_Bots    
+⭕️<b>Creater :</b> @WMchannelS    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
